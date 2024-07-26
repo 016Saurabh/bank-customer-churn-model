@@ -11,4 +11,4 @@ seaborn
 google.colab (if using Google Colab)then
 from google.colab import drive
 drive.mount('/content/drive') using this and 
-run in colab and we give the  access the to google colab
+run in colab and we give the  access to google colab
